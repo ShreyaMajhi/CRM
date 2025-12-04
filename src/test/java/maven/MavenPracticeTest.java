@@ -7,6 +7,7 @@ public class MavenPracticeTest {
 	@Test
 	public void mavenPracticeTest() {
 		Reporter.log("Hi Maven",true);
+		Reporter.log("Bye Maven",true);
 	}
 
 }
