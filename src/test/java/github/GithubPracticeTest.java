@@ -7,6 +7,7 @@ public class GithubPracticeTest {
 	@Test
 	public void githubPracticeTest() {
 		Reporter.log("Hi Github", true);
+		Reporter.log("Bye Github", true);
 		//getting parameter from system
 		//String BROWSER = System.getProperty("browser");
 		//System.out.println(BROWSER);
